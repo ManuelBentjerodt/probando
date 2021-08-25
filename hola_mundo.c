@@ -5,7 +5,7 @@
 #include <pthread.h> 
 
 int main(){
-    printf("hola\n");
+    printf("holaa\n");
     return 0;
 } 
 
